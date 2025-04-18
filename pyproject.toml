@@ -1,0 +1,16 @@
+[project]
+name = "gradio-chatbot"
+version = "0.1.0"
+description = "A simple Gradio chatbot project"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "gradio",
+]
+
+[build-system]
+requires = ["uv", "setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = { find = { where = ["src"] } }
