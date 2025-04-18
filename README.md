@@ -17,7 +17,6 @@ Below is a demo of the Gradio chatbot application:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/gradio-chatbot.git
-   cd gradio-chatbot
    ```
 
 2. Install the required dependencies using `uv`:
