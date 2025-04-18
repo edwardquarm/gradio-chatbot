@@ -1,6 +1,10 @@
 # Gradio Chatbot
 
-A simple chatbot application built using [Gradio](https://gradio.app/), a Python library for creating user-friendly machine learning interfaces.
+## Demo
+
+Below is a demo of the Gradio chatbot application:
+
+![Chatbot Demo](chatbot.gif)
 
 ## Features
 
@@ -35,9 +39,3 @@ uv run src/main.py
 ```
 
 Open your browser and navigate to the provided Gradio interface URL to interact with the chatbot.
-
-## Demo
-
-Below is a demo of the Gradio chatbot application:
-
-![Chatbot Demo](chatbot.gif)
