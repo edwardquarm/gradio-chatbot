@@ -40,7 +40,4 @@ Open your browser and navigate to the provided Gradio interface URL to interact 
 
 Below is a demo of the Gradio chatbot application:
 
-<video controls>
-  <source src="chatbot.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Chatbot Demo](chatbot.gif)
