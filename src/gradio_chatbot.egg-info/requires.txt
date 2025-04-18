@@ -1,1 +1,2 @@
 gradio
+truststore>=0.10.1

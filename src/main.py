@@ -1,4 +1,6 @@
-from src.app import Chatbot
+from app import Chatbot
+
+
 def main():
     chatbot = Chatbot()
 
